@@ -16,10 +16,9 @@ github_username:  ghabae7
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
-  , so you can add links and highlight things <mark>like this</mark>.
-  I am a curious, growing UX designer, ready to apply the power of empathy in design. Trained through behavior therapy and program coordination, I look forward to improving the accesibility and enjoyability of technology. 
+
+I am a curious, growing UX designer, ready to apply the power of empathy in design. 
+With experiences in behavior therapy and program coordination, I always look for ways to accommodate and improve the accesibility and enjoyability of an experience. 
   
   You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
     - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
@@ -28,7 +27,8 @@ about_content: | # this will include new lines to allow paragraphs
     - Images
 
 # Experience Section
-# experience_title: Experience #(Use this to override about experience section title)
+# experience_title: Experience #(Professional Experience)
+
 
 
 
